@@ -4,6 +4,8 @@
 }
 .hero{
 	display:flex;
+	justify-content:center;
+	align-items:center;
 }
 .explore_now{
 	width:30%;
@@ -15,7 +17,7 @@
 	text-align:center;
 }
 h1{
-	font-size:12px;
+	font-size:15px;
 }
 img{
 	object-fit:cover;
