@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.box1{
+	width:70%;
+}
+.hero{
+	display:flex;
+}
+.explore_now{
+	width:30%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-direction:column;
+	margin:auto;
+	text-align:center;
+}
+h1{
+	font-size:12px;
+}
+img{
+	object-fit:cover;
+}
+p{
+	font-size:12px;
+}
+button{
+	background-color:red;
+	border:none;
+	padding:6px;
+}
